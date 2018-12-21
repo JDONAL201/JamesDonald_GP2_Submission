@@ -1,5 +1,5 @@
 # JamesDonald_GP2_Submission
-James Donald GP2 submission for Bryan Young
+James Donald(S1229955) GP2 submission for Bryan Young
 
 Controls:
 W,A,S,D and mouse to move camera.
